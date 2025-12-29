@@ -1,201 +1,407 @@
-[1 of 50] ON
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-on.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-on.json
-now: 2025-04-23 23:23:10.273744 | eta: 0:01:42.536028 | delta: 0:00:02.092572 | avg: 0:00:02.092572
-[2 of 50] FFIV
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-ffiv.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-ffiv.json
-now: 2025-04-23 23:23:12.457706 | eta: 0:01:42.636816 | delta: 0:00:04.276534 | avg: 0:00:02.138267
-[3 of 50] LUV
+[1 of 50] MKC
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-mkc.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-mkc.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=MKC&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=MKC&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=MKC&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-mkc.json
+now: 2025-12-28 21:11:35.058118 | eta: 0:04:34.291955 | delta: 0:00:05.597795 | avg: 0:00:05.597795
+[2 of 50] FTV
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-ftv.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-ftv.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=FTV&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=FTV&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-ftv.json
+now: 2025-12-28 21:11:38.929941 | eta: 0:03:47.270832 | delta: 0:00:09.469618 | avg: 0:00:04.734809
+[3 of 50] PFG
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-pfg.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-pfg.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=PFG&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=PFG&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-pfg.json
+now: 2025-12-28 21:11:42.637914 | eta: 0:03:26.448910 | delta: 0:00:13.177591 | avg: 0:00:04.392530
+[4 of 50] LUV
 Saved: /home/qcx201/Projects/daytrade/data/chart/chart-luv.json
 Saved: /home/qcx201/Projects/daytrade/data/summary/summary-luv.json
-now: 2025-04-23 23:23:15.138703 | eta: 0:01:49.001319 | delta: 0:00:06.957531 | avg: 0:00:02.319177
-[4 of 50] BAX
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-bax.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-bax.json
-now: 2025-04-23 23:23:17.883421 | eta: 0:01:51.575852 | delta: 0:00:09.702249 | avg: 0:00:02.425562
-[5 of 50] JBL
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-jbl.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-jbl.json
-now: 2025-04-23 23:23:20.438161 | eta: 0:01:50.312910 | delta: 0:00:12.256989 | avg: 0:00:02.451398
-[6 of 50] J
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-j.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-j.json
-now: 2025-04-23 23:23:22.907102 | eta: 0:01:47.990168 | delta: 0:00:14.725930 | avg: 0:00:02.454322
-[7 of 50] FSLR
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-fslr.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-fslr.json
-now: 2025-04-23 23:23:24.920295 | eta: 0:01:42.826029 | delta: 0:00:16.739123 | avg: 0:00:02.391303
-[8 of 50] BALL
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-ball.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-ball.json
-now: 2025-04-23 23:23:27.403758 | eta: 0:01:40.918566 | delta: 0:00:19.222586 | avg: 0:00:02.402823
-[9 of 50] OMC
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=LUV&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=LUV&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=LUV&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-luv.json
+now: 2025-12-28 21:11:47.120784 | eta: 0:03:23.095290 | delta: 0:00:17.660461 | avg: 0:00:04.415115
+[5 of 50] ROL
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-rol.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-rol.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ROL&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ROL&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-rol.json
+now: 2025-12-28 21:11:50.859017 | eta: 0:03:12.588255 | delta: 0:00:21.398694 | avg: 0:00:04.279739
+[6 of 50] CNC
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-cnc.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-cnc.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CNC&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CNC&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-cnc.json
+now: 2025-12-28 21:11:53.779722 | eta: 0:02:58.342252 | delta: 0:00:24.319399 | avg: 0:00:04.053233
+[7 of 50] EXPD
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-expd.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-expd.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=EXPD&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=EXPD&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=EXPD&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-expd.json
+now: 2025-12-28 21:11:57.757364 | eta: 0:02:53.824662 | delta: 0:00:28.297041 | avg: 0:00:04.042434
+[8 of 50] LVS
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-lvs.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-lvs.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=LVS&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=LVS&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-lvs.json
+now: 2025-12-28 21:12:00.957267 | eta: 0:02:45.358956 | delta: 0:00:31.496944 | avg: 0:00:03.937118
+[9 of 50] INVH
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-invh.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-invh.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=INVH&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=INVH&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-invh.json
+now: 2025-12-28 21:12:03.846342 | eta: 0:02:36.647429 | delta: 0:00:34.386019 | avg: 0:00:03.820669
+[10 of 50] MAA
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-maa.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-maa.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=MAA&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=MAA&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-maa.json
+now: 2025-12-28 21:12:07.128837 | eta: 0:02:30.674040 | delta: 0:00:37.668514 | avg: 0:00:03.766851
+[11 of 50] DOW
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-dow.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-dow.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DOW&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DOW&offset=100&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DOW&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-dow.json
+now: 2025-12-28 21:13:40.892528 | eta: 0:07:45.986898 | delta: 0:02:11.432205 | avg: 0:00:11.948382
+[12 of 50] OMC
 Saved: /home/qcx201/Projects/daytrade/data/chart/chart-omc.json
 Saved: /home/qcx201/Projects/daytrade/data/summary/summary-omc.json
-now: 2025-04-23 23:23:30.377456 | eta: 0:01:41.116414 | delta: 0:00:22.196284 | avg: 0:00:02.466254
-[10 of 50] PNR
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-pnr.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-pnr.json
-now: 2025-04-23 23:23:33.062960 | eta: 0:01:39.527160 | delta: 0:00:24.881788 | avg: 0:00:02.488179
-[11 of 50] TRMB
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-trmb.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-trmb.json
-now: 2025-04-23 23:23:35.208527 | eta: 0:01:35.824248 | delta: 0:00:27.027355 | avg: 0:00:02.457032
-[12 of 50] KEY
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-key.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-key.json
-now: 2025-04-23 23:23:37.640617 | eta: 0:01:33.288252 | delta: 0:00:29.459445 | avg: 0:00:02.454954
-[13 of 50] AVY
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-avy.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-avy.json
-now: 2025-04-23 23:23:40.398632 | eta: 0:01:31.695842 | delta: 0:00:32.217460 | avg: 0:00:02.478266
-[14 of 50] AMCR
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-amcr.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-amcr.json
-now: 2025-04-23 23:23:42.465623 | eta: 0:01:28.160004 | delta: 0:00:34.284451 | avg: 0:00:02.448889
-[15 of 50] KIM
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-kim.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-kim.json
-now: 2025-04-23 23:23:45.039654 | eta: 0:01:26.003120 | delta: 0:00:36.858482 | avg: 0:00:02.457232
-[16 of 50] TPR
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-tpr.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-tpr.json
-now: 2025-04-23 23:23:47.469495 | eta: 0:01:23.487680 | delta: 0:00:39.288323 | avg: 0:00:02.455520
-[17 of 50] BLDR
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-bldr.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-bldr.json
-now: 2025-04-23 23:23:49.631597 | eta: 0:01:20.462580 | delta: 0:00:41.450425 | avg: 0:00:02.438260
-[18 of 50] GEN
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=OMC&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=OMC&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=OMC&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-omc.json
+now: 2025-12-28 21:13:45.558396 | eta: 0:07:10.977228 | delta: 0:02:16.098073 | avg: 0:00:11.341506
+[13 of 50] GEN
 Saved: /home/qcx201/Projects/daytrade/data/chart/chart-gen.json
 Saved: /home/qcx201/Projects/daytrade/data/summary/summary-gen.json
-now: 2025-04-23 23:23:52.201379 | eta: 0:01:18.258144 | delta: 0:00:44.020207 | avg: 0:00:02.445567
-[19 of 50] DOC
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-doc.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-doc.json
-now: 2025-04-23 23:23:54.683547 | eta: 0:01:15.872283 | delta: 0:00:46.502375 | avg: 0:00:02.447493
-[20 of 50] CF
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-cf.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-cf.json
-now: 2025-04-23 23:23:56.624600 | eta: 0:01:12.665130 | delta: 0:00:48.443428 | avg: 0:00:02.422171
-[21 of 50] EL
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-el.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-el.json
-now: 2025-04-23 23:23:58.805835 | eta: 0:01:09.910242 | delta: 0:00:50.624663 | avg: 0:00:02.410698
-[22 of 50] HOLX
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-holx.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-holx.json
-now: 2025-04-23 23:24:00.951862 | eta: 0:01:07.162704 | delta: 0:00:52.770690 | avg: 0:00:02.398668
-[23 of 50] MAS
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-mas.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-mas.json
-now: 2025-04-23 23:24:03.750694 | eta: 0:01:05.233782 | delta: 0:00:55.569522 | avg: 0:00:02.416066
-[24 of 50] WDC
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-wdc.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-wdc.json
-now: 2025-04-23 23:24:06.238709 | eta: 0:01:02.895664 | delta: 0:00:58.057537 | avg: 0:00:02.419064
-[25 of 50] JKHY
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-jkhy.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-jkhy.json
-now: 2025-04-23 23:24:08.677641 | eta: 0:01:00.496475 | delta: 0:01:00.496469 | avg: 0:00:02.419859
-[26 of 50] SJM
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-sjm.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-sjm.json
-now: 2025-04-23 23:24:11.010802 | eta: 0:00:57.996576 | delta: 0:01:02.829630 | avg: 0:00:02.416524
-[27 of 50] IEX
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-iex.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-iex.json
-now: 2025-04-23 23:24:13.375361 | eta: 0:00:55.535800 | delta: 0:01:05.194189 | avg: 0:00:02.414600
-[28 of 50] UDR
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-udr.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-udr.json
-now: 2025-04-23 23:24:15.977384 | eta: 0:00:53.268446 | delta: 0:01:07.796212 | avg: 0:00:02.421293
-[29 of 50] BBY
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-bby.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-bby.json
-now: 2025-04-23 23:24:18.625924 | eta: 0:00:51.011709 | delta: 0:01:10.444752 | avg: 0:00:02.429129
-[30 of 50] CAG
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-cag.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-cag.json
-now: 2025-04-23 23:24:21.307290 | eta: 0:00:48.750740 | delta: 0:01:13.126118 | avg: 0:00:02.437537
-[31 of 50] ALGN
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-algn.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-algn.json
-now: 2025-04-23 23:24:23.620497 | eta: 0:00:46.237013 | delta: 0:01:15.439325 | avg: 0:00:02.433527
-[32 of 50] CPT
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-cpt.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-cpt.json
-now: 2025-04-23 23:24:26.020661 | eta: 0:00:43.784712 | delta: 0:01:17.839489 | avg: 0:00:02.432484
-[33 of 50] APTV
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-aptv.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-aptv.json
-now: 2025-04-23 23:24:28.232568 | eta: 0:00:41.238600 | delta: 0:01:20.051396 | avg: 0:00:02.425800
-[34 of 50] TXT
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=GEN&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=GEN&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=GEN&offset=200&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=GEN&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-gen.json
+now: 2025-12-28 21:15:20.503460 | eta: 0:10:57.584313 | delta: 0:03:51.043137 | avg: 0:00:17.772549
+[14 of 50] IFF
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-iff.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-iff.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=IFF&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=IFF&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=IFF&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-iff.json
+now: 2025-12-28 21:15:25.035001 | eta: 0:10:05.763468 | delta: 0:03:55.574678 | avg: 0:00:16.826763
+[15 of 50] CHRW
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-chrw.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-chrw.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CHRW&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CHRW&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CHRW&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-chrw.json
+now: 2025-12-28 21:15:29.139978 | eta: 0:09:19.252540 | delta: 0:03:59.679655 | avg: 0:00:15.978644
+[16 of 50] TSN
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-tsn.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-tsn.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=TSN&offset=0&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=TSN&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=TSN&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=TSN&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-tsn.json
+now: 2025-12-28 21:17:04.877557 | eta: 0:11:52.761618 | delta: 0:05:35.417234 | avg: 0:00:20.963577
+[17 of 50] TXT
 Saved: /home/qcx201/Projects/daytrade/data/chart/chart-txt.json
 Saved: /home/qcx201/Projects/daytrade/data/summary/summary-txt.json
-now: 2025-04-23 23:24:30.997165 | eta: 0:00:38.972224 | delta: 0:01:22.815993 | avg: 0:00:02.435764
-[35 of 50] REG
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-reg.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-reg.json
-now: 2025-04-23 23:24:33.366554 | eta: 0:00:36.508020 | delta: 0:01:25.185382 | avg: 0:00:02.433868
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=TXT&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=TXT&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=TXT&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-txt.json
+now: 2025-12-28 21:17:09.404639 | eta: 0:10:59.891892 | delta: 0:05:39.944316 | avg: 0:00:19.996724
+[18 of 50] ALLE
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-alle.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-alle.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ALLE&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ALLE&offset=100&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ALLE&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-alle.json
+now: 2025-12-28 21:18:43.720537 | eta: 0:12:52.018144 | delta: 0:07:14.260214 | avg: 0:00:24.125567
+[19 of 50] HOLX
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-holx.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-holx.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=HOLX&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=HOLX&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=HOLX&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-holx.json
+now: 2025-12-28 21:18:49.389248 | eta: 0:11:57.778774 | delta: 0:07:19.928925 | avg: 0:00:23.154154
+[20 of 50] ZBRA
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-zbra.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-zbra.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ZBRA&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ZBRA&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ZBRA&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-zbra.json
+now: 2025-12-28 21:18:53.722581 | eta: 0:11:06.393390 | delta: 0:07:24.262258 | avg: 0:00:22.213113
+[21 of 50] CLX
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-clx.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-clx.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CLX&offset=0&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CLX&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CLX&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CLX&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-clx.json
+now: 2025-12-28 21:20:28.759260 | eta: 0:12:24.746158 | delta: 0:08:59.298937 | avg: 0:00:25.680902
+[22 of 50] DECK
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-deck.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-deck.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DECK&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DECK&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-deck.json
+now: 2025-12-28 21:20:31.763707 | eta: 0:11:30.204312 | delta: 0:09:02.303384 | avg: 0:00:24.650154
+[23 of 50] EG
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-eg.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-eg.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=EG&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=EG&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=EG&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-eg.json
+now: 2025-12-28 21:20:36.562127 | eta: 0:10:42.249945 | delta: 0:09:07.101804 | avg: 0:00:23.787035
+[24 of 50] KIM
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-kim.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-kim.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=KIM&offset=0&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=KIM&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=KIM&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-kim.json
+now: 2025-12-28 21:22:11.763426 | eta: 0:11:35.828354 | delta: 0:10:42.303103 | avg: 0:00:26.762629
+[25 of 50] BBY
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-bby.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-bby.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BBY&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BBY&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BBY&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-bby.json
+now: 2025-12-28 21:22:16.946412 | eta: 0:10:47.486100 | delta: 0:10:47.486089 | avg: 0:00:25.899444
+[26 of 50] MAS
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-mas.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-mas.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=MAS&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=MAS&offset=100&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=MAS&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=MAS&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-mas.json
+now: 2025-12-28 21:23:52.252236 | eta: 0:11:25.654080 | delta: 0:12:22.791913 | avg: 0:00:28.568920
+[27 of 50] CF
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-cf.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-cf.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CF&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=CF&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-cf.json
+now: 2025-12-28 21:23:55.475238 | eta: 0:10:35.494186 | delta: 0:12:26.014915 | avg: 0:00:27.630182
+[28 of 50] TKO
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-tko.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-tko.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=TKO&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=TKO&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-tko.json
+now: 2025-12-28 21:23:58.614773 | eta: 0:09:48.621352 | delta: 0:12:29.154450 | avg: 0:00:26.755516
+[29 of 50] COO
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-coo.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-coo.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=COO&offset=0&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=COO&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=COO&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=COO&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-coo.json
+now: 2025-12-28 21:25:33.910461 | eta: 0:10:11.498370 | delta: 0:14:04.450138 | avg: 0:00:29.118970
+[30 of 50] INCY
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-incy.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-incy.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=INCY&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=INCY&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=INCY&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-incy.json
+now: 2025-12-28 21:25:38.304896 | eta: 0:09:25.896380 | delta: 0:14:08.844573 | avg: 0:00:28.294819
+[31 of 50] BALL
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-ball.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-ball.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BALL&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BALL&offset=100&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BALL&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BALL&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-ball.json
+now: 2025-12-28 21:27:13.817659 | eta: 0:09:38.799660 | delta: 0:15:44.357336 | avg: 0:00:30.463140
+[32 of 50] BLDR
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-bldr.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-bldr.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BLDR&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BLDR&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-bldr.json
+now: 2025-12-28 21:27:16.760343 | eta: 0:08:52.856268 | delta: 0:15:47.300020 | avg: 0:00:29.603126
+[33 of 50] DOC
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-doc.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-doc.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DOC&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DOC&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-doc.json
+now: 2025-12-28 21:27:21.565484 | eta: 0:08:10.478424 | delta: 0:15:52.105161 | avg: 0:00:28.851672
+[34 of 50] DPZ
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-dpz.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-dpz.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DPZ&offset=0&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DPZ&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=DPZ&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-dpz.json
+now: 2025-12-28 21:28:55.818563 | eta: 0:08:12.403872 | delta: 0:17:26.358240 | avg: 0:00:30.775242
+[35 of 50] FOXA
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-foxa.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-foxa.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=FOXA&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=FOXA&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-foxa.json
+now: 2025-12-28 21:28:58.272223 | eta: 0:07:29.490810 | delta: 0:17:28.811900 | avg: 0:00:29.966054
 [36 of 50] ARE
 Saved: /home/qcx201/Projects/daytrade/data/chart/chart-are.json
 Saved: /home/qcx201/Projects/daytrade/data/summary/summary-are.json
-now: 2025-04-23 23:24:35.731633 | eta: 0:00:34.047398 | delta: 0:01:27.550461 | avg: 0:00:02.431957
-[37 of 50] ZBRA
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-zbra.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-zbra.json
-now: 2025-04-23 23:24:38.138733 | eta: 0:00:31.606705 | delta: 0:01:29.957561 | avg: 0:00:02.431285
-[38 of 50] POOL
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-pool.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-pool.json
-now: 2025-04-23 23:24:40.577813 | eta: 0:00:29.177892 | delta: 0:01:32.396641 | avg: 0:00:02.431491
-[39 of 50] LVS
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-lvs.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-lvs.json
-now: 2025-04-23 23:24:42.697913 | eta: 0:00:26.658566 | delta: 0:01:34.516741 | avg: 0:00:02.423506
-[40 of 50] TER
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-ter.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-ter.json
-now: 2025-04-23 23:24:45.261334 | eta: 0:00:24.270040 | delta: 0:01:37.080162 | avg: 0:00:02.427004
-[41 of 50] JNPR
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-jnpr.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-jnpr.json
-now: 2025-04-23 23:24:47.712343 | eta: 0:00:21.848310 | delta: 0:01:39.531171 | avg: 0:00:02.427590
-[42 of 50] RVTY
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-rvty.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-rvty.json
-now: 2025-04-23 23:24:50.531746 | eta: 0:00:19.495344 | delta: 0:01:42.350574 | avg: 0:00:02.436918
-[43 of 50] AKAM
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-akam.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-akam.json
-now: 2025-04-23 23:24:52.536925 | eta: 0:00:16.988146 | delta: 0:01:44.355753 | avg: 0:00:02.426878
-[44 of 50] ALLE
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-alle.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-alle.json
-now: 2025-04-23 23:24:54.696318 | eta: 0:00:14.524794 | delta: 0:01:46.515146 | avg: 0:00:02.420799
-[45 of 50] LKQ
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-lkq.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-lkq.json
-now: 2025-04-23 23:24:56.897973 | eta: 0:00:12.079645 | delta: 0:01:48.716801 | avg: 0:00:02.415929
-[46 of 50] PNW
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-pnw.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-pnw.json
-now: 2025-04-23 23:24:59.495784 | eta: 0:00:09.679532 | delta: 0:01:51.314612 | avg: 0:00:02.419883
-[47 of 50] BG
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-bg.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-bg.json
-now: 2025-04-23 23:25:01.801516 | eta: 0:00:07.252362 | delta: 0:01:53.620344 | avg: 0:00:02.417454
-[48 of 50] CHRW
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-chrw.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-chrw.json
-now: 2025-04-23 23:25:04.313798 | eta: 0:00:04.838860 | delta: 0:01:56.132626 | avg: 0:00:02.419430
-[49 of 50] FOXA
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-foxa.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-foxa.json
-now: 2025-04-23 23:25:06.098945 | eta: 0:00:02.406485 | delta: 0:01:57.917773 | avg: 0:00:02.406485
-[50 of 50] JBHT
-Saved: /home/qcx201/Projects/daytrade/data/chart/chart-jbht.json
-Saved: /home/qcx201/Projects/daytrade/data/summary/summary-jbht.json
-now: 2025-04-23 23:25:08.450992 | eta: 0:00:00 | delta: 0:02:00.269820 | avg: 0:00:02.405396
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ARE&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=ARE&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-are.json
+now: 2025-12-28 21:29:01.406118 | eta: 0:06:49.090038 | delta: 0:17:31.945795 | avg: 0:00:29.220717
+[37 of 50] AVY
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-avy.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-avy.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=AVY&offset=0&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=AVY&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=AVY&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=AVY&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-avy.json
+now: 2025-12-28 21:30:36.749547 | eta: 0:06:43.101621 | delta: 0:19:07.289224 | avg: 0:00:31.007817
+[38 of 50] LYB
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-lyb.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-lyb.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=LYB&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=LYB&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-lyb.json
+now: 2025-12-28 21:30:39.506348 | eta: 0:06:03.172428 | delta: 0:19:10.046025 | avg: 0:00:30.264369
+[39 of 50] NDSN
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-ndsn.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-ndsn.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=NDSN&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=NDSN&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=NDSN&offset=200&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=NDSN&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-ndsn.json
+now: 2025-12-28 21:32:15.149220 | eta: 0:05:51.348151 | delta: 0:20:45.688897 | avg: 0:00:31.940741
+[40 of 50] IEX
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-iex.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-iex.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=IEX&offset=0&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=IEX&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=IEX&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=IEX&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-iex.json
+now: 2025-12-28 21:33:49.861063 | eta: 0:05:35.100180 | delta: 0:22:20.400740 | avg: 0:00:33.510018
+[41 of 50] RL
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-rl.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-rl.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=RL&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=RL&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=RL&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-rl.json
+now: 2025-12-28 21:33:53.810812 | eta: 0:04:55.101324 | delta: 0:22:24.350489 | avg: 0:00:32.789036
+[42 of 50] REG
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-reg.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-reg.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=REG&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=REG&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-reg.json
+now: 2025-12-28 21:33:56.681016 | eta: 0:04:16.613464 | delta: 0:22:27.220693 | avg: 0:00:32.076683
+[43 of 50] UHS
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-uhs.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-uhs.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=UHS&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=UHS&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=UHS&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-uhs.json
+now: 2025-12-28 21:34:00.805444 | eta: 0:03:39.986417 | delta: 0:22:31.345121 | avg: 0:00:31.426631
+[44 of 50] BAX
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-bax.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-bax.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BAX&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BAX&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=BAX&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-bax.json
+now: 2025-12-28 21:34:05.354937 | eta: 0:03:04.894722 | delta: 0:22:35.894614 | avg: 0:00:30.815787
+[45 of 50] NWSA
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-nwsa.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-nwsa.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=NWSA&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=NWSA&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-nwsa.json
+now: 2025-12-28 21:34:08.168478 | eta: 0:02:30.967575 | delta: 0:22:38.708155 | avg: 0:00:30.193515
+[46 of 50] VTRS
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-vtrs.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-vtrs.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=VTRS&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=VTRS&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=VTRS&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-vtrs.json
+now: 2025-12-28 21:34:12.363869 | eta: 0:01:58.513352 | delta: 0:22:42.903546 | avg: 0:00:29.628338
+[47 of 50] SJM
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-sjm.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-sjm.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=SJM&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=SJM&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=SJM&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-sjm.json
+now: 2025-12-28 21:34:16.781788 | eta: 0:01:27.275838 | delta: 0:22:47.321465 | avg: 0:00:29.091946
+[48 of 50] SWKS
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-swks.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-swks.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=SWKS&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=SWKS&offset=100&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-swks.json
+now: 2025-12-28 21:34:19.830068 | eta: 0:00:57.098740 | delta: 0:22:50.369745 | avg: 0:00:28.549370
+[49 of 50] SWK
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-swk.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-swk.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=SWK&offset=0&size=100
+Sleeping 90.0 seconds...
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=SWK&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=SWK&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=SWK&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-swk.json
+now: 2025-12-28 21:35:54.951029 | eta: 0:00:29.907974 | delta: 0:24:25.490706 | avg: 0:00:29.907974
+[50 of 50] GL
+Saved: /home/qcx201/Projects/daytrade/data/chart/chart-gl.json
+Saved: /home/qcx201/Projects/daytrade/data/summary/summary-gl.json
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=GL&offset=0&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=GL&offset=100&size=100
+<Response [200]> https://finance.yahoo.com/calendar/earnings/?symbol=GL&offset=200&size=100
+Saved: /home/qcx201/Projects/daytrade/data/earnings/earnings-gl.json
+now: 2025-12-28 21:35:58.928052 | eta: 0:00:00 | delta: 0:24:29.467729 | avg: 0:00:29.389355
 -- Complete --

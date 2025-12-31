@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {1..10}
+for i in {1..20}
 do
 
     session=spy$i
@@ -13,7 +13,7 @@ do
     echo "Started session <$session>"
     
     cmd="
-    python3 -u get_spy.py -i $i 2>&1 | tee ../log/spy_$i.log
+    python3 -u get_yahoo.py -i $i 2>&1 | tee ../log/get_yahoo_$i.log
 
     screen -XS $session quit
     "
